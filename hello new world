@@ -1,0 +1,16 @@
+{
+	"user_id_list": ["1239472074"],
+    "filter": 0,
+    "since_date": "2018-01-01",
+    "write_mode": ["csv"],
+    "pic_download": 0,
+    "video_download": 0,
+    "cookie": "_T_WM=37835112131; SCF=AvEhhmURQ9jkz-0KLN8Ur59HGiF9HApwnYF0ExwyDzHRfffK_QAoS3g2YQHzYIPFEe-LEA69VuyWeOj7SYx2RFo.; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WFZegf0D_UIVZhMEICMA4Kl5JpX5K-hUgL.FoMXe0-fehMcehz2dJLoI0qLxK-L1K5L1heLxK-L1K5L1heLxKML1-2L1hBLxK-LBo5L12qLxKqL1hzLBKqLxK-LB-BL1K5t; SUB=_2A25zltWGDeRhGeBM41AZ8CnPwj2IHXVRePvOrDV6PUJbkdANLU7TkW1NRKv9RlU8LLoC0D_Q97T5bHtzpLfwp3um; SUHB=0G0uME5Djxwpj-; SSOLoginState=1586669014",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    }
+}
